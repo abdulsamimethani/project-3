@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
-import Home from './component/Home';
-import About from './component/About';
-import Contact from './component/Contact';
-import Product from './component/Product';
-import Productitem from './component/Productitem';
+import Home from './components/Home';
+import About from './components/About';
+import Contact from './components/Contact';
+import Product from './components/Product';
+import Productitem from './components/Productitem';
 
 function App() {
   return (
